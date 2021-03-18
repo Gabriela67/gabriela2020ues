@@ -1,0 +1,24 @@
+1-Explique con sus palabras, qué entiende por sistema. (5%)
+es un conjunto organizado formando un todo en la que cada de sus partes se relacionan a traves de un orden logico que se relaciona sus actos para lograr un objetivo
+2-Mencione 3 ejemplos de sistemas abiertos y 3 ejemplos de sistemas cerrados (deben ser ejemplos distintos a los
+comentados en clase). 
+ejemplos abiertos 
+-el cuerpo humano 
+-reactor nuclear 
+-los saunas 
+ejemplo cerrado 
+una botella de agua fria 
+un temometro 
+el sol
+3-Qué limitaciones significativas se tendrían si no aplicamos un enfoque de sistemas?
+-una vision reducida 
+-aislamiendo diciplinario 
+4-Qué comparativo nos permite saber rápidamente que ha llegado el momento de tomar decisiones correctivas
+el dashbord
+5-Explique ¿por qué la toma de decisiones estratégicas en una organización, sería mejor utilizando sistemas
+informáticos? por que asi facilita el trabajo
+
+
+ 
+
+
